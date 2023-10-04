@@ -16,3 +16,5 @@ git remote -v
 git remote set-url --delete origin <name><url>
 git remote -v
 git push origin main
+----------------------------------
+git push and pull command end
