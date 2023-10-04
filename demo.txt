@@ -1,2 +1,6 @@
 git init
 git status
+---------------------
+git log 
+git satus
+git push
